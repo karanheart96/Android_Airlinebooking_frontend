@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#252525</color>
+    <color name="colorPrimaryDark">#050505</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="airlineRowBackgroundColor">#FFFFFF</color>
+    <color name="airlineRowTextColor">#333333</color>
+    <color name="headerBackgroundColor">#AAAAAA</color>
+    <color name="headerTextColor">#EEEEEE</color>
+    <color name="endofline">#DAD9D8</color>
+</resources>
